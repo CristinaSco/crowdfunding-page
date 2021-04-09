@@ -528,18 +528,7 @@ input[type=text]{
   }
 
   .buttons{
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    left: 20px;
-    right: 20px;
-    text-align: center;
-    bottom:30px;
     display: inherit;
-  }
-
-  .content{
-    padding:40px 40px 0 40px;
   }
 
   .value{
